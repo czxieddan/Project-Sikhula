@@ -541,7 +541,7 @@ guiTypes = {
 			textureFile = ""
 			font = "hoi_18b"
 			borderSize = {x = 0 y = 0}
-			text = "ASPF_FE_SELECT_SCENARIO"
+			text = "PS_FE_SELECT_SCENARIO"
 			maxWidth = 500
 			maxHeight = 30
 			format = left
@@ -553,7 +553,7 @@ guiTypes = {
 			textureFile = ""
 			font = "hoi4_typewriter22"
 			borderSize = {x = 0 y = 0}
-			text = "ASPF_FE_SELECT_SCENARIO"
+			text = "PS_FE_SELECT_SCENARIO"
 			maxWidth = 500
 			maxHeight = 30
 			format = left
@@ -807,8 +807,8 @@ guiTypes = {
 		}
 
 		iconType = {
-			name = "ASPF_icon"
-			spriteType = "GFX_win98_ASPF"
+			name = "PS_icon"
+			spriteType = "GFX_win98_PS"
 			position = { x = -190 y = -270 }
 			format = centre
 			orientation = center
@@ -892,7 +892,7 @@ guiTypes = {
 			name = "select_button"
 			position = { x = -259 y = -65 }
 			quadTextureSprite ="GFX_button_win98_221x34"
-			buttonText = "ASPF_ENTER_FE_SELECT_SCENARIO"
+			buttonText = "PS_ENTER_FE_SELECT_SCENARIO"
 			buttonFont = "hoi4_typewriter16"
 			Orientation = "LOWER_RIGHT"
 			clicksound = click_ok
@@ -941,7 +941,7 @@ guiTypes = {
 			textureFile = ""
 			font = "hoi_18b"
 			borderSize = {x = 0 y = 0}
-			text = "ASPF_FE_SELECT_COUNTRY"
+			text = "PS_FE_SELECT_COUNTRY"
 			maxWidth = 500
 			maxHeight = 30
 			format = left
@@ -953,7 +953,7 @@ guiTypes = {
 			textureFile = ""
 			font = "hoi4_typewriter22"
 			borderSize = {x = 0 y = 0}
-			text = "ASPF_FE_SELECT_COUNTRY"
+			text = "PS_FE_SELECT_COUNTRY"
 			maxWidth = 1000
 			maxHeight = 30
 			format = left

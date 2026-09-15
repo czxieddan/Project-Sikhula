@@ -1,0 +1,18 @@
+defined_text = {
+	name = PS_SE_TT
+	text = {
+		localization_key = "PS_SE_TT_[?PS_SE_ID]"
+	}
+}
+defined_text = {
+	name = PS_SE_DE
+	text = {
+		localization_key = "PS_SE_DE_[?PS_SE_ID]"
+	}
+}
+defined_text = {
+	name = PS_SE_MX
+	text = {
+		localization_key = "PS_SE_MX_[?PS_SE_ID]"
+	}
+}

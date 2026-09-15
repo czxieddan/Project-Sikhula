@@ -13,7 +13,7 @@ ideas = {
 			level = 5
 			allowed_to_remove = {
 				custom_trigger_tooltip = {
-				    tooltip = ASPF_LAWS_LR_AVAILABLE_TT
+				    tooltip = PS_LAWS_LR_AVAILABLE_TT
 					always = no
 				}
 			}
@@ -30,7 +30,7 @@ ideas = {
 			level = 4
 			allowed_to_remove = {
 				custom_trigger_tooltip = {
-				    tooltip = ASPF_LAWS_LR_AVAILABLE_TT
+				    tooltip = PS_LAWS_LR_AVAILABLE_TT
 					always = no
 				}
 			}
@@ -47,7 +47,7 @@ ideas = {
 			level = 3
 			allowed_to_remove = {
 				custom_trigger_tooltip = {
-				    tooltip = ASPF_LAWS_LR_AVAILABLE_TT
+				    tooltip = PS_LAWS_LR_AVAILABLE_TT
 					always = no
 				}
 			}
@@ -64,7 +64,7 @@ ideas = {
 			level = 2
 			allowed_to_remove = {
 				custom_trigger_tooltip = {
-				    tooltip = ASPF_LAWS_LR_AVAILABLE_TT
+				    tooltip = PS_LAWS_LR_AVAILABLE_TT
 					always = no
 				}
 			}
@@ -81,7 +81,7 @@ ideas = {
 			level = 1
 			allowed_to_remove = {
 				custom_trigger_tooltip = {
-				    tooltip = ASPF_LAWS_LR_AVAILABLE_TT
+				    tooltip = PS_LAWS_LR_AVAILABLE_TT
 					always = no
 				}
 			}

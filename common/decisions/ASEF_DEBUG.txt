@@ -222,7 +222,7 @@ DEBUG_EVENT_decisions = {
 		cost = 0
 		fire_only_once = no
 		complete_effect = {
-			country_event = ASPF_DEBUG.1
+			country_event = PS_DEBUG.1
 		}
 	}
 	SHOW_TEST_EVENT_02 = {
@@ -239,7 +239,7 @@ DEBUG_EVENT_decisions = {
 		cost = 0
 		fire_only_once = no
 		complete_effect = {
-			country_event = ASPF_DEBUG.2
+			country_event = PS_DEBUG.2
 		}
 		targets = { QAT SAU OMA YEM IRQ SYR LEB ISR PAL }
         targets_dynamic = yes
@@ -258,7 +258,7 @@ DEBUG_EVENT_decisions = {
 		cost = 666
 		fire_only_once = no
 		complete_effect = {
-			country_event = ASPF_DEBUG.3
+			country_event = PS_DEBUG.3
 		}
 	}
 	SHOW_TEST_EVENT_04 = {
@@ -275,7 +275,7 @@ DEBUG_EVENT_decisions = {
 		cost = 0
 		fire_only_once = no
 		complete_effect = {
-			news_event = ASPF_DEBUG.4
+			news_event = PS_DEBUG.4
 		}
 	}
 	DEBUG_TEST_100DAYS1 = {
@@ -312,7 +312,7 @@ DEBUG_EVENT_decisions = {
 }
 DEBUG_SE_decisions = {
 
-	ASPF_SE_T_1 = {
+	PS_SE_T_1 = {
 		icon = GFX_win98_thumbnail
 		allowed = {
         }
@@ -326,11 +326,11 @@ DEBUG_SE_decisions = {
 		cost = 0
 		fire_only_once = no
 		complete_effect = {
-			every_country = { set_variable = { THIS.ASPF_SE_ID = 1 } play_song = music_SE_1 }
+			every_country = { set_variable = { THIS.PS_SE_ID = 1 } play_song = music_SE_1 }
 		}
 	}
 	
-	ASPF_SE_T_2 = {
+	PS_SE_T_2 = {
 		icon = GFX_win98_thumbnail
 		allowed = {
         }
@@ -344,7 +344,7 @@ DEBUG_SE_decisions = {
 		cost = 0
 		fire_only_once = no
 		complete_effect = {
-			every_country = { set_variable = { THIS.ASPF_SE_ID = 2 } play_song = music_SE_2 }
+			every_country = { set_variable = { THIS.PS_SE_ID = 2 } play_song = music_SE_2 }
 		}
 	}
 }

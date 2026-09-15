@@ -13,13 +13,13 @@ ideas = {
 			level = 5
 			allowed_to_remove = {
 				custom_trigger_tooltip = {
-				    tooltip = ASPF_LAWS_IG_AVAILABLE_TT
+				    tooltip = PS_LAWS_IG_AVAILABLE_TT
 					always = no
 				}
 			}
 			modifier = {
 				foreign_subversive_activites = -0.4
-				custom_modifier_tooltip = ASPF_LAWS_IG_GEN05_MODIFIER_ID_TT
+				custom_modifier_tooltip = PS_LAWS_IG_GEN05_MODIFIER_ID_TT
 				hidden_modifier = {
 				    airforce_intel_decryption_bonus = -0.1
 				    army_intel_decryption_bonus = -0.2
@@ -29,7 +29,7 @@ ideas = {
 				enemy_operative_intel_extraction_rate = -0.5
 				non_core_manpower = -0.98
 				trade_opinion_factor = -0.9
-				custom_modifier_tooltip = ASPF_LAWS_IG_GEN05_MODIFIER_EC_TT
+				custom_modifier_tooltip = PS_LAWS_IG_GEN05_MODIFIER_EC_TT
 			}
 			cancel_if_invalid = no
 		}
@@ -41,13 +41,13 @@ ideas = {
 			level = 4
 			allowed_to_remove = {
 				custom_trigger_tooltip = {
-				    tooltip = ASPF_LAWS_IG_AVAILABLE_TT
+				    tooltip = PS_LAWS_IG_AVAILABLE_TT
 					always = no
 				}
 			}
 			modifier = {
 				foreign_subversive_activites = -0.1
-				custom_modifier_tooltip = ASPF_LAWS_IG_GEN04_MODIFIER_ID_TT
+				custom_modifier_tooltip = PS_LAWS_IG_GEN04_MODIFIER_ID_TT
 				hidden_modifier = {
 				    airforce_intel_decryption_bonus = -0.05
 				    army_intel_decryption_bonus = -0.05
@@ -56,7 +56,7 @@ ideas = {
 				}
 				enemy_operative_intel_extraction_rate = -0.2
 				non_core_manpower = -0.95
-				custom_modifier_tooltip = ASPF_LAWS_IG_GEN04_MODIFIER_EC_TT
+				custom_modifier_tooltip = PS_LAWS_IG_GEN04_MODIFIER_EC_TT
 			}
 			cancel_if_invalid = no
 		}
@@ -68,13 +68,13 @@ ideas = {
 			level = 3
 			allowed_to_remove = {
 				custom_trigger_tooltip = {
-				    tooltip = ASPF_LAWS_IG_AVAILABLE_TT
+				    tooltip = PS_LAWS_IG_AVAILABLE_TT
 					always = no
 				}
 			}
 			modifier = {
 				foreign_subversive_activites = -0.05
-				custom_modifier_tooltip = ASPF_LAWS_IG_GEN03_MODIFIER_ID_TT
+				custom_modifier_tooltip = PS_LAWS_IG_GEN03_MODIFIER_ID_TT
 				hidden_modifier = {
 				    airforce_intel_decryption_bonus = -0.02
 				    army_intel_decryption_bonus = -0.02
@@ -83,7 +83,7 @@ ideas = {
 				}
 				enemy_operative_intel_extraction_rate = 0
 				non_core_manpower = -0.7
-				custom_modifier_tooltip = ASPF_LAWS_IG_GEN03_MODIFIER_EC_TT
+				custom_modifier_tooltip = PS_LAWS_IG_GEN03_MODIFIER_EC_TT
 			}
 			cancel_if_invalid = no
 		}
@@ -95,13 +95,13 @@ ideas = {
 			level = 2
 			allowed_to_remove = {
 				custom_trigger_tooltip = {
-				    tooltip = ASPF_LAWS_IG_AVAILABLE_TT
+				    tooltip = PS_LAWS_IG_AVAILABLE_TT
 					always = no
 				}
 			}
 			modifier = {
 				foreign_subversive_activites = 0.1
-				custom_modifier_tooltip = ASPF_LAWS_IG_GEN02_MODIFIER_ID_TT
+				custom_modifier_tooltip = PS_LAWS_IG_GEN02_MODIFIER_ID_TT
 				hidden_modifier = {
 				    airforce_intel_decryption_bonus = 0.05
 				    army_intel_decryption_bonus = 0.05
@@ -110,7 +110,7 @@ ideas = {
 				}
 				enemy_operative_intel_extraction_rate = 0.2
 				non_core_manpower = -0.5
-				custom_modifier_tooltip = ASPF_LAWS_IG_GEN02_MODIFIER_EC_TT
+				custom_modifier_tooltip = PS_LAWS_IG_GEN02_MODIFIER_EC_TT
 			}
 			cancel_if_invalid = no
 		}
@@ -122,13 +122,13 @@ ideas = {
 			level = 1
 			allowed_to_remove = {
 				custom_trigger_tooltip = {
-				    tooltip = ASPF_LAWS_IG_AVAILABLE_TT
+				    tooltip = PS_LAWS_IG_AVAILABLE_TT
 					always = no
 				}
 			}
 			modifier = {
 				foreign_subversive_activites = 0.3
-				custom_modifier_tooltip = ASPF_LAWS_IG_GEN01_MODIFIER_ID_TT
+				custom_modifier_tooltip = PS_LAWS_IG_GEN01_MODIFIER_ID_TT
 				hidden_modifier = {
 				    airforce_intel_decryption_bonus = 0.2
 				    army_intel_decryption_bonus = 0.3
@@ -137,7 +137,7 @@ ideas = {
 				}
 				enemy_operative_intel_extraction_rate = 0.2
 				non_core_manpower = 0
-				custom_modifier_tooltip = ASPF_LAWS_IG_GEN01_MODIFIER_EC_TT
+				custom_modifier_tooltip = PS_LAWS_IG_GEN01_MODIFIER_EC_TT
 			}
 			cancel_if_invalid = no
 		}

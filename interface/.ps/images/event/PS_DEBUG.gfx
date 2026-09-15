@@ -1,0 +1,10 @@
+spriteTypes = {
+    SpriteType = {
+        name = "GFX_event_report_PS_DEBUG"
+        texturefile = "gfx/images/events/report/PS_DEBUG.png"
+    }
+    SpriteType = {
+        name = "GFX_event_news_PS_DEBUG"
+        texturefile = "gfx/images/events/news/PS_DEBUG.png"
+    }
+}
