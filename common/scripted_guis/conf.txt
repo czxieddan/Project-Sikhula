@@ -114,19 +114,19 @@ scripted_gui = {
 			}
 			conf_FTA_button_visible = {
 				has_global_flag = conf_right
-				NOT = { has_global_flag = ASPFDEBUGFOCUS }
+				NOT = { has_global_flag = PSDEBUGFOCUS }
 			}
 			conf_FTB_button_visible = {
 				has_global_flag = conf_right
-				has_global_flag = ASPFDEBUGFOCUS
+				has_global_flag = PSDEBUGFOCUS
 			}
 			conf_EVA_button_visible = {
 				has_global_flag = conf_right
-				NOT = { has_global_flag = ASPFDEBUGEVENT }
+				NOT = { has_global_flag = PSDEBUGEVENT }
 			}
 			conf_EVB_button_visible = {
 				has_global_flag = conf_right
-				has_global_flag = ASPFDEBUGEVENT
+				has_global_flag = PSDEBUGEVENT
 			}
 		}
 		effects = {
@@ -217,16 +217,16 @@ scripted_gui = {
 				set_global_flag = hidden_conf 
 			}
 			conf_FTA_button_click = {
-				set_global_flag = ASPFDEBUGFOCUS
+				set_global_flag = PSDEBUGFOCUS
 			}
 			conf_FTB_button_click = {
-				clr_global_flag = ASPFDEBUGFOCUS
+				clr_global_flag = PSDEBUGFOCUS
 			}
 			conf_EVA_button_click = {
-				set_global_flag = ASPFDEBUGEVENT
+				set_global_flag = PSDEBUGEVENT
 			}
 			conf_EVB_button_click = {
-				clr_global_flag = ASPFDEBUGEVENT
+				clr_global_flag = PSDEBUGEVENT
 			}
 		}
 	}

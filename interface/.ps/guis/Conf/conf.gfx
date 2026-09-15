@@ -9,7 +9,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_button_conf"
-		texturefile = "gfx/interface/conf/button_ASPF.dds"
+		texturefile = "gfx/interface/conf/button_PS.dds"
 		noOfFrames = 1
 		effectFile = "gfx/FX/buttonstate.lua"
 	}

@@ -3,17 +3,17 @@ scripted_gui = {
 		context_type = player_context
 		window_name = "SE_window"
 		visible = {
-		    NOT = { check_variable = { ROOT.ASPF_SE_ID = 0 } }
+		    NOT = { check_variable = { ROOT.PS_SE_ID = 0 } }
 		}
 		triggers = {
 		}
 		effects = {
-		    SE_btn_minimize_click = { clear_variable = ROOT.ASPF_SE_ID }
-			SE_btn_close_click = { clear_variable = ROOT.ASPF_SE_ID }
+		    SE_btn_minimize_click = { clear_variable = ROOT.PS_SE_ID }
+			SE_btn_close_click = { clear_variable = ROOT.PS_SE_ID }
 		}
 		properties = {
 			SE_image = {
-				image = "GFX_SE_image_[?ASPF_SE_ID]"
+				image = "GFX_SE_image_[?PS_SE_ID]"
 			}
 		}
 	}

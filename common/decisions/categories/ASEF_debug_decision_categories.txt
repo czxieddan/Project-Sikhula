@@ -5,7 +5,7 @@ DEBUG_FOCUS_decisions = {
 	}
 	visible = {
 		is_debug  = yes
-		has_global_flag = ASPFDEBUGFOCUS
+		has_global_flag = PSDEBUGFOCUS
 	}
 	visible_when_empty = yes
 	priority = 10000
@@ -17,7 +17,7 @@ DEBUG_EVENT_decisions = {
 	}
 	visible = {
 		is_debug  = yes
-		has_global_flag = ASPFDEBUGEVENT
+		has_global_flag = PSDEBUGEVENT
 	}
 	visible_when_empty = yes
 	priority = 9999
@@ -29,7 +29,7 @@ DEBUG_SE_decisions = {
 	}
 	visible = {
 		is_debug  = yes
-		has_global_flag = ASPFDEBUGEVENT
+		has_global_flag = PSDEBUGEVENT
 	}
 	visible_when_empty = yes
 	priority = 9998

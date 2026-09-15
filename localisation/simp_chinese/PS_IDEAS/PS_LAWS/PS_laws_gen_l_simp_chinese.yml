@@ -5,7 +5,7 @@
  # 法律 #######
  
  # 兵役法律 #
- ASPF_LAWS_MO_AVAILABLE_TT: "兵役法律不能被手动修改。"
+ PS_LAWS_MO_AVAILABLE_TT: "兵役法律不能被手动修改。"
  # gen
  laws_MO_GEN05: "非军事化模式"
  laws_MO_GEN05_desc: "为了带来和平，我们经历了许多烦扰。如今若停止努力，便永远得不到和平\n——托马斯·艾略特"
@@ -19,7 +19,7 @@
  laws_MO_GEN01_desc: "死神在勇敢者的马刀和刺刀前退却\n——苏沃洛夫"
  
  # 贸易法律 #
- ASPF_LAWS_TR_AVAILABLE_TT: "贸易法律不能被手动修改。"
+ PS_LAWS_TR_AVAILABLE_TT: "贸易法律不能被手动修改。"
  # gen
  laws_TR_GEN05: "完全关闭贸易"
  laws_TR_GEN05_desc: "当外国商品涌入时，我们的工人将沦为乞丐\n——亨利·克莱"
@@ -33,7 +33,7 @@
  laws_TR_GEN01_desc: "国际贸易是和平最强大的引擎\n——理查德·科布登"
  
  # 国安法律 #
- ASPF_LAWS_NS_AVAILABLE_TT: "国安法律不能被手动修改。"
+ PS_LAWS_NS_AVAILABLE_TT: "国安法律不能被手动修改。"
  # gen
  laws_NS_GEN05: "人权自由保障"
  laws_NS_GEN05_desc: "人权大于一切！任何干涉他人的行为都是非法的，我们的国民有权利将他们脑海中的想法变为现实。"
@@ -47,7 +47,7 @@
  laws_NS_GEN01_desc: "都些啥玩意？听不懂，反正不利于社会在战时稳定的都跟我的警棍说去吧！"
  
  # 劳工法律 #
- ASPF_LAWS_LR_AVAILABLE_TT: "劳工法律不能被手动修改。"
+ PS_LAWS_LR_AVAILABLE_TT: "劳工法律不能被手动修改。"
  # gen
  laws_LR_GEN05: "工人奴化权利"
  laws_LR_GEN05_desc: "工人只不过是在工厂内的奴隶罢了，厂长可以像奴隶主那样对待工人，反正也只是个货物，谈不上啥人道不人道的。"
@@ -61,7 +61,7 @@
  laws_LR_GEN01_desc: "没有工人就没有我们今天的生活，我们的一切都是工友同志们给予我们的，他们应该享有至高无上的权利。"
  
  # 民族法律 #
- ASPF_LAWS_NH_AVAILABLE_TT: "民族法律不能被手动修改。"
+ PS_LAWS_NH_AVAILABLE_TT: "民族法律不能被手动修改。"
  # gen
  laws_NH_GEN05: "放逐少数民族"
  laws_NH_GEN05_desc: "我们并不欢迎少数人在我们的土地上生存，自求多福吧。"
@@ -75,25 +75,25 @@
  laws_NH_GEN01_desc: "优待少数人，福利多数人！"
  
  # 移民法律 #
- ASPF_LAWS_IG_AVAILABLE_TT: "移民法律不能被手动修改。"
+ PS_LAWS_IG_AVAILABLE_TT: "移民法律不能被手动修改。"
  # gen
  laws_IG_GEN05: "关闭边境口岸"
  laws_IG_GEN05_desc: "鬼知道那些无家可归的人会对我们的国家干些什么"
- ASPF_LAWS_IG_GEN05_MODIFIER_ID_TT: "£operatives_extract_intel_texticon 情报泄露概率: 大幅降低"
- ASPF_LAWS_IG_GEN05_MODIFIER_EC_TT: "£manpower_noncore_texticon 他国人才几乎不会来我国。"
+ PS_LAWS_IG_GEN05_MODIFIER_ID_TT: "£operatives_extract_intel_texticon 情报泄露概率: 大幅降低"
+ PS_LAWS_IG_GEN05_MODIFIER_EC_TT: "£manpower_noncore_texticon 他国人才几乎不会来我国。"
  laws_IG_GEN04: "严格限制审查"
  laws_IG_GEN04_desc: "我们应该尝试开放一些口岸，让一部分对国家发展有用的高技术人才来到我们国家为我们服务。至于那些对我们没用的难民...有啥规定说我们有义务接受这群人？"
- ASPF_LAWS_IG_GEN04_MODIFIER_ID_TT: "£operatives_extract_intel_texticon 情报泄露概率: 较大降低"
- ASPF_LAWS_IG_GEN04_MODIFIER_EC_TT: "£manpower_noncore_texticon 一些高级人才会加入我国。"
+ PS_LAWS_IG_GEN04_MODIFIER_ID_TT: "£operatives_extract_intel_texticon 情报泄露概率: 较大降低"
+ PS_LAWS_IG_GEN04_MODIFIER_EC_TT: "£manpower_noncore_texticon 一些高级人才会加入我国。"
  laws_IG_GEN03: "适度移民监管"
  laws_IG_GEN03_desc: "劳动力、高技术人才这些都是我们需要的，难民之类的我们也可以给予他们一定的援助，但这些都要进行恰当的监督。"
- ASPF_LAWS_IG_GEN03_MODIFIER_ID_TT: "£operatives_extract_intel_texticon 情报泄露概率: 略微降低"
- ASPF_LAWS_IG_GEN03_MODIFIER_EC_TT: "£manpower_noncore_texticon 一部分的劳工会涌入我国。"
+ PS_LAWS_IG_GEN03_MODIFIER_ID_TT: "£operatives_extract_intel_texticon 情报泄露概率: 略微降低"
+ PS_LAWS_IG_GEN03_MODIFIER_EC_TT: "£manpower_noncore_texticon 一部分的劳工会涌入我国。"
  laws_IG_GEN02: "宽松移民限制"
  laws_IG_GEN02_desc: "不需要对那些移民有太多的限制，让大部分有想法的人都能有机会来到我们国家，他们将在这里安居乐业并实现他们的理想生活，又有谁能够阻止其他人追逐梦想呢？"
- ASPF_LAWS_IG_GEN02_MODIFIER_ID_TT: "£operatives_extract_intel_texticon 情报泄露概率: 略微提高"
- ASPF_LAWS_IG_GEN02_MODIFIER_EC_TT: "£manpower_noncore_texticon 形形色色的人会进入我国。"
+ PS_LAWS_IG_GEN02_MODIFIER_ID_TT: "£operatives_extract_intel_texticon 情报泄露概率: 略微提高"
+ PS_LAWS_IG_GEN02_MODIFIER_EC_TT: "£manpower_noncore_texticon 形形色色的人会进入我国。"
  laws_IG_GEN01: "完全开放边境"
  laws_IG_GEN01_desc: "自由！民主！"
- ASPF_LAWS_IG_GEN01_MODIFIER_ID_TT: "£operatives_extract_intel_texticon 情报泄露概率: 大幅提高"
- ASPF_LAWS_IG_GEN01_MODIFIER_EC_TT: "£manpower_noncore_texticon 形形色色的人会进入我国。"
+ PS_LAWS_IG_GEN01_MODIFIER_ID_TT: "£operatives_extract_intel_texticon 情报泄露概率: 大幅提高"
+ PS_LAWS_IG_GEN01_MODIFIER_EC_TT: "£manpower_noncore_texticon 形形色色的人会进入我国。"

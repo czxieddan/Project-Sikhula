@@ -230,8 +230,8 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_win98_ASPF"
-		texturefile = "gfx/interface/win98web/ASPF.png"
+		name = "GFX_win98_PS"
+		texturefile = "gfx/interface/win98web/PS.png"
 	}
 
 	spriteType = {
@@ -327,11 +327,11 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_SE_bg"
-		texturefile = "gfx/interface/ASPF_event/SE_bg.png"
+		texturefile = "gfx/interface/PS_event/SE_bg.png"
 	}
 
 	spriteType = {
 		name = "GFX_SE_bto"
-		texturefile = "gfx/interface/ASPF_event/SE_image_bto.png"
+		texturefile = "gfx/interface/PS_event/SE_image_bto.png"
 	}
 }

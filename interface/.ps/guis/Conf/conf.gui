@@ -64,7 +64,7 @@ guiTypes = {
 			name = "validate_button"
 			spriteType = "GFX_button_win98_34x34"
 			position = { x = -65 y = 100 }
-			buttonText = "ASPFCONFVALIDATE"
+			buttonText = "PSCONFVALIDATE"
 			buttonFont = "hoi4_typewriter16"
 			orientation = center
 		}
@@ -160,7 +160,7 @@ guiTypes = {
 			name = "conf_remove_button"
 			spriteType = "GFX_button_win98_34x34"
 			position = { x = 31 y = 100 }
-			buttonText = "ASPFCONFREMOVE"
+			buttonText = "PSCONFREMOVE"
 			buttonFont = "hoi4_typewriter16"
 			orientation = center
 		}

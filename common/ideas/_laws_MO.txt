@@ -13,14 +13,14 @@ ideas = {
 			level = 5
 			allowed_to_remove = {
 				custom_trigger_tooltip = {
-				    tooltip = ASPF_LAWS_MO_AVAILABLE_TT
+				    tooltip = PS_LAWS_MO_AVAILABLE_TT
 					always = no
 				}
 			}
 			modifier = {
 				conscription = 0
 				war_support = -0.05
-				custom_modifier_tooltip = ASPF_LAWS_MO_GEN05_MODIFIER_DE_TT
+				custom_modifier_tooltip = PS_LAWS_MO_GEN05_MODIFIER_DE_TT
 			}
 			cancel_if_invalid = no
 		}
@@ -32,7 +32,7 @@ ideas = {
 			level = 4
 			allowed_to_remove = {
 				custom_trigger_tooltip = {
-				    tooltip = ASPF_LAWS_MO_AVAILABLE_TT
+				    tooltip = PS_LAWS_MO_AVAILABLE_TT
 					always = no
 				}
 			}
@@ -49,7 +49,7 @@ ideas = {
 			level = 3
 			allowed_to_remove = {
 				custom_trigger_tooltip = {
-				    tooltip = ASPF_LAWS_MO_AVAILABLE_TT
+				    tooltip = PS_LAWS_MO_AVAILABLE_TT
 					always = no
 				}
 			}
@@ -66,7 +66,7 @@ ideas = {
 			level = 2
 			allowed_to_remove = {
 				custom_trigger_tooltip = {
-				    tooltip = ASPF_LAWS_MO_AVAILABLE_TT
+				    tooltip = PS_LAWS_MO_AVAILABLE_TT
 					always = no
 				}
 			}
@@ -85,7 +85,7 @@ ideas = {
 			level = 1
 			allowed_to_remove = {
 				custom_trigger_tooltip = {
-				    tooltip = ASPF_LAWS_MO_AVAILABLE_TT
+				    tooltip = PS_LAWS_MO_AVAILABLE_TT
 					always = no
 				}
 			}
