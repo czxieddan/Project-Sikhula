@@ -1,0 +1,8 @@
+spriteTypes = {
+    SpriteType = {
+        name = "GFX_focus_goals_PRC_00_01"
+        texturefile = "gfx/icons/goals/PRC/PRC_00_01.png"
+        transparencecheck = yes
+    }
+}
+

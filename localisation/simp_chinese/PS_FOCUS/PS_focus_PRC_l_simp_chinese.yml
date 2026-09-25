@@ -1,0 +1,10 @@
+﻿l_simp_chinese: 
+ # 注意此爲PRC國策本地化 請勿在此填寫無關内容 
+ # 国策的ID为 TAG_FOCUSTREEID_PROJECT_ID 
+ 
+ 
+ 
+ # PRC 00
+ # 
+ PRC_00_01: "重新编制“十五”计划" #######
+ PRC_00_01_desc: "重新编制“十五”计划"

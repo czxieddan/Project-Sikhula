@@ -1,0 +1,14 @@
+#!gfx:interface\PS\icons\goals\PRC\00_goals.gfx
+focus_tree = {
+	id = PRC_focus_tree
+	country = {
+		factor = 0
+		modifier = {
+			add = 1000
+			tag = PRC
+		}
+	}
+	default = no
+	continuous_focus_position = { x = 70 y = 1620 }
+	shared_focus = PRC_00_01
+}
