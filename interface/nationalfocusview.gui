@@ -155,10 +155,10 @@ guiTypes = {
 				quadTextureSprite ="GFX_tiled_win98_wefc_bg"
 			}
 
-			#background = {
-			#	name = "Background"
-			#	quadTextureSprite ="GFX_tiled_focus_bg"
-			#}
+			background = {
+				name = "Background"
+				quadTextureSprite ="GFX_dark_big"
+			}
 			
 			containerWindowType = {
 				name = "techtree_stripes"
@@ -533,7 +533,7 @@ guiTypes = {
 		
 		buttonType = {
 			name = "symbol"
-			position = { x = 5 y = -108 }
+			position = { x = 5 y = -118 }
 			quadTextureSprite = "GFX_goal_unknown"
 			centerposition = yes
 			Orientation = CENTER_DOWN
