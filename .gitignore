@@ -1,0 +1,13 @@
+/debug/
+/tmp/
+/AGENTS.md
+/plans/
+/.codex/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.bk
+*.exe
+*.psd
+*.ACT
